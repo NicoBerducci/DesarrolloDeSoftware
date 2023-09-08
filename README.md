@@ -1,5 +1,3 @@
-# Trabajo Práctico N°2
+# Trabajos Prácticos
 
-En este repositorio se encuentran las imagenes utilizadas en mi código HTML y el archivo Index.html, para ingresar a la página que he creado con mi código debe acceder al siguiente link:
-
-https://nicoberducci.github.io/DesarrolloDeSoftware/Index.html
+En este repositorio se encuentran las carpetas con los diferentes trabajos prácticos, para ver cada trabajo práctico debe ingresar a su respectiva carpeta, dentro de la misma, encontrará un archivo README.md con las instrucciones para ejecutar y visualizar cada trabajo.
